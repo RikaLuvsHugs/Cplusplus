@@ -1,0 +1,7 @@
+﻿  Source.cpp
+U:\Cplusplus\Project3\Project3\Source.cpp(279,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 175 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project3.vcxproj -> U:\Cplusplus\Project3\Release\Project3.exe
